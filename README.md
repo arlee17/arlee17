@@ -1,16 +1,19 @@
-## Hi there 👋
+**Software Developer**
 
-<!--
-**arlee17/arlee17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+10+ years building things for the web.
 
-Here are some ideas to get you started:
+I work mostly with software, data, infrastructure, and the problems that appear when all three meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,astro,nodejs,ruby,rails,python,php,postgres,mongodb,docker,linux,cloudflare,gcp,git&perline=9" />
+</p>
+
+## Projects
+
+- [kiryoku.com](https://kiryoku.com) → Independent software products
+- [crossmetrics.app](https://crossmetrics.app) → E-commerce analytics platform
+- [versionmess.com](https://versionmess.com) → Software release tracking
+- [domain-doctor.com](https://domain-doctor.com) → Domain and infrastructure analysis
+- [arlee.dev](https://arlee.dev) → Personal website and contact
