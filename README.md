@@ -7,7 +7,7 @@ I work mostly with software, data, infrastructure, and the problems that appear 
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,astro,nodejs,ruby,rails,python,php,postgres,mongodb,docker,linux,cloudflare,gcp,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,js,swift,kotlin,react,angular,astro,,,php,python,ruby,nodejs,rails,django,laravel,,,postgres,mysql,mongodb,docker,linux,cloudflare,gcp&perline=9" />
 </p>
 
 ## My projects
