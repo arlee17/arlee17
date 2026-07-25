@@ -17,3 +17,9 @@ I work mostly with software, data, infrastructure, and the problems that appear 
 - [Versionmess](https://versionmess.com) → Software release tracking
 - [Domain Doctor](https://domain-doctor.com) → Domain and infrastructure analysis
 - [arlee.dev](https://arlee.dev) → Personal website and contact
+
+## Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arlee17&theme=github-compact&hide_border=true&area=true&custom_title=Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=arlee17&theme=python-dark&hide_border=false)](https://git.io/streak-stats)
