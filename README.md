@@ -18,8 +18,18 @@ I work mostly with software, data, infrastructure, and the problems that appear 
 - [Domain Doctor](https://domain-doctor.com) → Domain and infrastructure analysis
 - [arlee.dev](https://arlee.dev) → Personal website and contact
 
+
+
 ## Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arlee17&theme=github-compact&hide_border=true&area=true&custom_title=Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arlee17&theme=react&hide_border=true" width="59%" style="margin-right: 2%;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arlee17&langs_count=3&theme=react&hide_border=true" width="39%" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=arlee17&theme=python-dark&hide_border=false)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arlee17&theme=react&hide_border=true&area=true&custom_title=Activity)
+
+<!--
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=arlee17&theme=react&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=arlee17&langs_count=3&theme=react)
+-->
