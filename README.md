@@ -24,7 +24,7 @@ I work mostly with software, data, infrastructure, and the problems that appear 
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arlee17&theme=react&hide_border=true" width="59%" style="margin-right: 2%;" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arlee17&langs_count=3&theme=react&hide_border=true" width="39%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arlee17&langs_count=3&theme=react&hide_border=true&hide_title=true" width="39%" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arlee17&theme=react&hide_border=true&area=true&custom_title=Activity)
