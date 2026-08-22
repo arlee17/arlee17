@@ -14,6 +14,7 @@ I work mostly with software, data, infrastructure, and the problems that appear 
 
 - [Kiryoku Labs](https://kiryokulabs.com) → Independent software products, personal brand
 - [Crossmetrics](https://crossmetrics.app) → E-commerce analytics platform
+- [Kiban OS](https://kibanos.com) → Self-hosted infrastructure manager
 - [Versionmess](https://versionmess.com) → Software release tracking
 - [Domain Doctor](https://domain-doctor.com) → Domain and infrastructure analysis
 - [arlee.dev](https://arlee.dev) → Personal website and contact
